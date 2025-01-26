@@ -3,7 +3,7 @@
 # num1 = input("Give me a number")
 # print(num1)
 
-question_answer = []
+question_answer = ["IDK",""]
 
 
 answer="erfghjjjjjjjjjjjjjjjjmdsssss"
