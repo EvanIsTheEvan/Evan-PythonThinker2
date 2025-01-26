@@ -7,16 +7,7 @@ question_answer = ["IDK","2","4"]
 
 
 
-answer="erfghjjjjjjjjjjjjjjjjmdsssss"
-while answer != question_answer[0] :
-    print("OI TRY AGAIN")
-    answer = input("What is the mass of the sun?")
-print("correct")
-while answer != question_answer[1] :
-    answer = input("What is 1+1")
-    print("faster, again wrong")
-print("COORECT")
-while answer != question_answer[2] :
-    print("WRONG!!!@#$#%@")
-    answer = input("2+2")   
-print("COOOOOORESVTC")
+answr="erfghjjjjjjjjjjjjjjjjmdsssss"
+while True:
+    while answr != question_answer[0] :
+        answr = input("What is the mass of the sun?")
