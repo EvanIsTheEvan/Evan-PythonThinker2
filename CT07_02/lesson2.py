@@ -16,7 +16,7 @@ while True:
     print("CORRECT")
     while answr != question_answer[1] :
         answr = input("What is 1+1")
-        attemptps
+        attempts+=1
     print("CORRECT")
     while answr != question_answer[2] :
         answr = input("What is 2+2")
