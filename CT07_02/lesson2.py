@@ -6,6 +6,7 @@
 question_answer = ["IDK","2","4"]
 
 
+
 answer="erfghjjjjjjjjjjjjjjjjmdsssss"
 while answer != question_answer[0] :
     print("OI TRY AGAIN")
