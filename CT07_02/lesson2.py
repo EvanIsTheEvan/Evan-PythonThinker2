@@ -12,7 +12,7 @@ while answer != question_answer[0] :
 print("correct")
 while answer != question_answer[1] :
     answer = input("What is 1+1")
-else:print("COORECT")
+print("COORECT")
 while answer != question_answer[2] :
     answer = input("2+2")   
-else:print("COOOOOORESVTC")
+print("COOOOOORESVTC")
