@@ -1,2 +1,2 @@
-while counter
+HOWLONGUWANT = input
 
