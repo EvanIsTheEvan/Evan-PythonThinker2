@@ -15,4 +15,4 @@ while answer != question_answer[1] :
 else:print("COORECT")
 while answer != question_answer[2] :
     answer = input("2+2")   
-else:print
+else:print("COOOOOORESVTC")
