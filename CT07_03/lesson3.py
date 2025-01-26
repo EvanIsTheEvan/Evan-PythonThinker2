@@ -6,6 +6,6 @@ while counter != 0:
     counter=counter-1
     time.sleep(1)
 str(counter)
-print("You studied for"+counter+"minutes")
+print("You studied for"+str(counter)+"minutes")
 
 
