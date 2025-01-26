@@ -13,6 +13,8 @@ while True:
     while answr != question_answer[0] :
         answr = input("What is the mass of the sun?")
         attempts+=1
+        if attempts>3:
+            break
     print("CORRECT")
     while answr != question_answer[1] :
         answr = input("What is 1+1")
