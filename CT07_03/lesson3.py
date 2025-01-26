@@ -5,7 +5,7 @@ while counter != 0:
     print(counter)
     counter=counter-1
     time.sleep(1)
-str(counter)
-print("You studied for "+str(counter)+" minutes")
+str(HOWLONGUWANT)
+print("You studied for "+str(HOWLONGUWANT)+" minutes")
 
 
