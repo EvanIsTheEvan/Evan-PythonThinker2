@@ -5,4 +5,4 @@
 
 answer = []
 
-input("")
+input("What is the ")
