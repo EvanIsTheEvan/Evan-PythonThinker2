@@ -20,5 +20,6 @@ while True:
     print("CORRECT")
     while answr != question_answer[2] :
         answr = input("What is 2+2")
+        attempts+=1
     print("CORRECT")
     break
