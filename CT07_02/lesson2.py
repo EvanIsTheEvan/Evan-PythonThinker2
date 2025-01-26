@@ -6,6 +6,6 @@
 question_answer = []
 
 
-answer = input("What is the mass of the sun?")
+answer="erfghjjjjjjjjjjjjjjjjmdsssss"
 while answer != question_answer :
     answer = input("What is the mass of the sun?")
