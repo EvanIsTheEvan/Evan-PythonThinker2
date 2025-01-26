@@ -8,6 +8,6 @@ while counter != 0:
     counter=counter-1
     time.sleep(1)
 str(HOWLONGUWANT)
-print("You studied for "+str(HOWLONGUWANT)+" seconds or"+str(Hi)+" minutes and gained 0 brain cells.")
+print("You studied for "+str(HOWLONGUWANT)+" seconds or "+str(Hi)+" minutes and gained 0 brain cells.")
 
 
