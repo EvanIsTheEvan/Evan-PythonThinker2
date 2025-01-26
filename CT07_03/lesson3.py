@@ -1,6 +1,7 @@
 import time
 
 HOWLONGUWANT = int(input("How many seconds do you want to study for?"))
+Hi=
 counter= HOWLONGUWANT
 while counter != 0:
     print(counter)
