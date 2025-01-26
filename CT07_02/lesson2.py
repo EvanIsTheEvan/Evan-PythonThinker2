@@ -12,6 +12,6 @@ while answer != question_answer[0] :
 else:print("correct")
 while answer != question_answer[1] :
     answer = input("What is 1+1")
-    el
+else:print("COORECT")
 while answer != question_answer[2] :
-    answer = input("2+2")    
+    answer = input("2+2")   
