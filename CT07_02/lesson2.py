@@ -5,4 +5,4 @@
 
 answer = []
 
-input("What is the ")
+input("What is the mass of the sun?")
