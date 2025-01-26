@@ -16,5 +16,6 @@ while answer != question_answer[1] :
     print("faster, again wrong")
 print("COORECT")
 while answer != question_answer[2] :
+    print("")
     answer = input("2+2")   
 print("COOOOOORESVTC")
