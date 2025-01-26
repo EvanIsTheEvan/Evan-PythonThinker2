@@ -3,4 +3,6 @@
 # num1 = input("Give me a number")
 # print(num1)
 
+answer = []
 
+input
