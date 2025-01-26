@@ -8,6 +8,7 @@ question_answer = ["IDK","2","4"]
 
 answer="erfghjjjjjjjjjjjjjjjjmdsssss"
 while answer != question_answer[0] :
+    print
     answer = input("What is the mass of the sun?")
 print("correct")
 while answer != question_answer[1] :
