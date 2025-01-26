@@ -19,9 +19,13 @@ while True:
     while answr != question_answer[1] :
         answr = input("What is 1+1")
         attempts+=1
+        if attempts>3:
+            break
     print("CORRECT")
     while answr != question_answer[2] :
         answr = input("What is 2+2")
         attempts+=1
+        if attempts>3:
+            break
     print("CORRECT")
     break
