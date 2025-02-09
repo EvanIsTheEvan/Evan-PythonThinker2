@@ -75,4 +75,4 @@ while not ans == "end":
     i=i+1
 for a in range(len(MEENU)-1):
     b=a+1
-    print(MEENU[a] +" is now in the menu as the " + str(b) +"th item.")
+    print(MEENU[a] +" is now in the menu as the " + str(b) +" item.")
