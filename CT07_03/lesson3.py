@@ -41,4 +41,6 @@
 # if lives>0:
 #     print("FINALLY!AVERAGE BUT SLOW!")
         
-PLANTS
+PLANTS=[
+
+]
