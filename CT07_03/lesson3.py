@@ -74,4 +74,4 @@ while not ans == "end":
     MEENU.insert(i,ans)
     i=i+1
 for a in range(len(MEENU)-1):
-    print(MEENU[a] +".")
+    print(MEENU[a] +" is .")
