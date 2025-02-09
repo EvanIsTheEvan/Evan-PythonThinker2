@@ -44,3 +44,4 @@
 PLANTS=[
 "MERCOOREE","VENoos","EERTH","MERS","JOOPIRERTER","sETUren","uRENUS","Niptoone"
 ]
+PLANTS[]
