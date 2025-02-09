@@ -63,5 +63,5 @@ while not ans == "end":
     ans=str(input("What country do you want to visit"))
     COONTREES.insert[i]
     i=i+1
-for i in range(len(PLANTS)):
+for a in range(len(COONTREES)):
     print
