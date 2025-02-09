@@ -28,4 +28,6 @@ for i in range(1,15):
     Ans=num1*num2
     ans=int(input("What is "+num1+" x "+num2+" ?"))
     if Ans==ans:
-        then
+        print("Correct!")
+        break
+    
