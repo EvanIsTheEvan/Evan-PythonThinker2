@@ -25,10 +25,10 @@ num1=0
 ans=0
 Ans=1
 for i in range(1,15):
-        num1=int(random.randint(2,20))
-        num2=random.randint(2,20)
-        Ans=num1*num2
-
+    num1=int(random.randint(2,20))
+    num2=random.randint(2,20)
+    Ans=num1*num2
+    while not ans==Ans:
         ans=int(input("What is "+str(num1)+" x "+str(num2)+" ?"))
         if Ans==ans:
             print("Correct!")
