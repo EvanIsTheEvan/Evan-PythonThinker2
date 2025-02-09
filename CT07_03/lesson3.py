@@ -20,4 +20,4 @@
 
 import random
 
-ra
+random.randint
