@@ -45,4 +45,4 @@ PLANTS=[
 "MERCOOREE","VENoos","EERTH","MERS","JOOPIRERTER","sETUren","uRENUS","Niptoone"
 ]
 PLANTS.insert(4,"Lalaland")
-PLANTS.append
+PLANTS.append("BLUETOES")
