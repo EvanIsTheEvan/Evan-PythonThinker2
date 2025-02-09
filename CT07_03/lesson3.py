@@ -70,7 +70,7 @@ i=0
 MEENU=[]
 ans=0
 while not ans == "end":
-    ans=str(input("What country do you want to visit"))
+    ans=str(input("What menu item do you want to add?"))
     MEENU.insert(i,ans)
     i=i+1
 for a in range(len(MEENU)-1):
