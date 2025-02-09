@@ -13,3 +13,6 @@
 # print("You studied for "+str(HOWLONGUWANT)+" seconds or "+str(Hi)+" minutes or "+ str(HII) +"hours or "+str(HIII)+ " days and gained 0 brain cells.")
 
 
+savings=0
+while savings<100:
+    savings=input("How much did yousave today?")
