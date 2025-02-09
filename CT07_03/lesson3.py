@@ -18,27 +18,27 @@
 #     savings+=float(input("How much did you save today?"))
 # print("Finally, you are $100 less poor!")
 
-import random
+# import random
 
-lives=3
-num1=0
-ans=0
-Ans=1
-for i in range(1,15):
-    num1=int(random.randint(2,1043534513))
-    num2=random.randint(2,389578321657189)
-    Ans=num1*num2
-    while not ans==Ans:
-        ans=int(input("What is "+str(num1)+" x "+str(num2)+" ?"))
-        if Ans==ans:
-            print("Correct!")
-            break
-        else:
-            lives=lives-1
-            print("FAIL!!AGAIN!")
-        if lives==0:
-            print("SEE MRS TAN U! FAILURE")
-if lives>0:
-    print("FINALLY!AVERAGE BUT SLOW!")
+# lives=3
+# num1=0
+# ans=0
+# Ans=1
+# for i in range(1,15):
+#     num1=int(random.randint(2,1043534513))
+#     num2=random.randint(2,389578321657189)
+#     Ans=num1*num2
+#     while not ans==Ans:
+#         ans=int(input("What is "+str(num1)+" x "+str(num2)+" ?"))
+#         if Ans==ans:
+#             print("Correct!")
+#             break
+#         else:
+#             lives=lives-1
+#             print("FAIL!!AGAIN!")
+#         if lives==0:
+#             print("SEE MRS TAN U! FAILURE")
+# if lives>0:
+#     print("FINALLY!AVERAGE BUT SLOW!")
         
-
+PLANTS
