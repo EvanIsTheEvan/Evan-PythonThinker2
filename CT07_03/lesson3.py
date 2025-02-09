@@ -81,4 +81,6 @@ for a in range(len(MEENU)-1):
         b=str(b)+"nd"
     if b==3:
         b=str(b)+"rd"
+    else:
+        b=str(b)+"th"
     print(MEENU[a] +" is now in the menu as the " + str(b) +" item.")
