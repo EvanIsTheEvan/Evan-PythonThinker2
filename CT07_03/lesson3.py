@@ -50,7 +50,7 @@ for i in range(len(PLANTS)):
     print(PLANTS[i])
     if PLANTS[i]=="EERTH":
         print("This is my home")
-    if PLANTS[i]=="EERTH":
-        print("This is my home")
+    if PLANTS[i]=="MERS":
+        print("I conquered this")
     if PLANTS[i]=="EERTH":
         print("This is my home")
