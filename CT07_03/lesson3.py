@@ -53,4 +53,4 @@ for i in range(len(PLANTS)):
     if PLANTS[i]=="MERS":
         print("I conquered this")
     if PLANTS[i]=="EERTH":
-        print("This is my home")
+        print("I created this")
