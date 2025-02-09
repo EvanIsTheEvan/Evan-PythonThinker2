@@ -23,4 +23,6 @@ import random
 lives=3
 num1=random.randint(2,20)
 num2=random.randint(2,20)
-Ans=num1
+Ans=num1*num2
+
+
