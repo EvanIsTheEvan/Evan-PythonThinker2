@@ -13,7 +13,7 @@
 # print("You studied for "+str(HOWLONGUWANT)+" seconds or "+str(Hi)+" minutes or "+ str(HII) +"hours or "+str(HIII)+ " days and gained 0 brain cells.")
 
 
-float(savings)=0
+savings=0
 while savings<100:
     savings+=float(input("How much did you save today?"))
 print("Finally, you are $100 less poor!")
