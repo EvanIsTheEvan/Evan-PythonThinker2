@@ -49,4 +49,4 @@ PLANTS.append("BLUETOES")
 for i in range(len(PLANTS)):
     print(PLANTS[i])
     if PLANTS[i]=="EERTH":
-        print
+        print("This is my home")
