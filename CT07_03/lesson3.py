@@ -31,4 +31,4 @@ for i in range(1,15):
         print("Correct!")
         break
     else:
-        
+        lives-=1
