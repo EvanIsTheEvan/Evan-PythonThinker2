@@ -77,8 +77,8 @@ for a in range(len(MEENU)-1):
     b=a+1
     if b==1:
         b=str(b)+"st"
-    if b==1:
-        b=str(b)+"st"
-    if b==1:
-        b=str(b)+"st"
+    if b==2:
+        b=str(b)+"nd"
+    if b==3:
+        b=str(b)+"rd"
     print(MEENU[a] +" is now in the menu as the " + str(b) +" item.")
