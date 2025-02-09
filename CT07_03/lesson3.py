@@ -31,7 +31,7 @@ for i in range(1,15):
         if Ans==ans:
             print("Correct!")
             break
-    else:
-        lives=lives-1
-        print("FAIL!!AGAIN!")
+        else:
+            lives=lives-1
+            print("FAIL!!AGAIN!")
 
