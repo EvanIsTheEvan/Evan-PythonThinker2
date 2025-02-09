@@ -64,4 +64,4 @@ while not ans == "end":
     COONTREES.insert[i]
     i=i+1
 for a in range(len(COONTREES)):
-    print("")
+    print("I want to visit "+ a +".")
