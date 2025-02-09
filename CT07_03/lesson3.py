@@ -16,4 +16,4 @@
 savings=0
 while savings<100:
     savings=input("How much did yousave today?")
-print
+print("Finally, you are $100 less poor!")
