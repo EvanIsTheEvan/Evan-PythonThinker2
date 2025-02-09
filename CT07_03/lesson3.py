@@ -23,7 +23,7 @@ import random
 lives=3
 num1=0
 ans=0
-Ans=0
+Ans=1
 for i in range(1,15):
     while not ans==Ans:
         num1=int(random.randint(2,20))
