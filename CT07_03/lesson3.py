@@ -41,19 +41,19 @@
 # if lives>0:
 #     print("FINALLY!AVERAGE BUT SLOW!")
         
-PLANTS=[
-"MERCOOREE","VENoos","EERTH","MERS","JOOPIRERTER","sETUren","uRENUS","Niptoone"
-]
-PLANTS.insert(4,"Lalaland")
-PLANTS.append("BLUETOES")
-for i in range(len(PLANTS)):
-    print(PLANTS[i])
-    if PLANTS[i]=="EERTH":
-        print("This is my home")
-    if PLANTS[i]=="MERS":
-        print("I conquered this")
-    if PLANTS[i]=="Lalaland":
-        print("I created this")
+# PLANTS=[
+# "MERCOOREE","VENoos","EERTH","MERS","JOOPIRERTER","sETUren","uRENUS","Niptoone"
+# ]
+# PLANTS.insert(4,"Lalaland")
+# PLANTS.append("BLUETOES")
+# for i in range(len(PLANTS)):
+#     print(PLANTS[i])
+#     if PLANTS[i]=="EERTH":
+#         print("This is my home")
+#     if PLANTS[i]=="MERS":
+#         print("I conquered this")
+#     if PLANTS[i]=="Lalaland":
+#         print("I created this")
 
 
 
@@ -64,4 +64,4 @@ while not ans == "end":
     COONTREES.insert[i]
     i=i+1
 for a in range(len(COONTREES)):
-    print
+    print("")
