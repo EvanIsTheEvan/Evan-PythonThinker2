@@ -18,3 +18,6 @@
 #     savings+=float(input("How much did you save today?"))
 # print("Finally, you are $100 less poor!")
 
+import random
+
+ra
