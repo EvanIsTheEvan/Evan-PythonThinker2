@@ -44,4 +44,4 @@
 PLANTS=[
 "MERCOOREE","VENoos","EERTH","MERS","JOOPIRERTER","sETUren","uRENUS","Niptoone"
 ]
-PLANTS[3]="hi"
+PLAN
