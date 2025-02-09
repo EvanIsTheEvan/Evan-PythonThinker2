@@ -20,4 +20,4 @@
 
 import random
 
-random.randint
+random.randint(2,20)
