@@ -52,5 +52,5 @@ for i in range(len(PLANTS)):
         print("This is my home")
     if PLANTS[i]=="MERS":
         print("I conquered this")
-    if PLANTS[i]=="EERTH":
+    if PLANTS[i]=="Lalaland":
         print("I created this")
