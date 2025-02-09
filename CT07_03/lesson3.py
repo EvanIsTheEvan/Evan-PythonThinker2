@@ -42,5 +42,5 @@
 #     print("FINALLY!AVERAGE BUT SLOW!")
         
 PLANTS=[
-"MERCOOREE","VENoos","EERTH","MERS","JOOPIRERTER","sETUren","uRENUS"
+"MERCOOREE","VENoos","EERTH","MERS","JOOPIRERTER","sETUren","uRENUS","Niptoone"
 ]
