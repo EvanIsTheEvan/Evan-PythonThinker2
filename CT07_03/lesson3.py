@@ -61,4 +61,5 @@ COONTREES=[]
 ans=0
 while not ans == "end":
     ans=str(input("What country do you want to visit"))
-    COONTREES.insert[0]
+    COONTREES.insert[i]
+    i=i+1
