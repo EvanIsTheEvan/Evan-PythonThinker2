@@ -60,4 +60,4 @@ for i in range(len(PLANTS)):
 COONTREES=[]
 ans=0
 while not ans == "end":
-    ans=
+    ans=str(input("What country do you want to visit"))
