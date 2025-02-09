@@ -73,5 +73,5 @@ while not ans == "end":
     ans=str(input("What country do you want to visit"))
     MEENU.insert(i,ans)
     i=i+1
-for a in range(len(COONTREES)-1):
-    print("I want to visit "+ COONTREES[a] +".")
+for a in range(len(MEENU)-1):
+    print("I want to visit "+ MEENU[a] +".")
