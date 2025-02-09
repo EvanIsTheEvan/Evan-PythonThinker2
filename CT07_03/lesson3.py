@@ -44,4 +44,5 @@
 PLANTS=[
 "MERCOOREE","VENoos","EERTH","MERS","JOOPIRERTER","sETUren","uRENUS","Niptoone"
 ]
-list.insert(4,"Lalaland")
+lists.insert(4,"Lalaland")
+list
