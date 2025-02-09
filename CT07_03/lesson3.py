@@ -24,7 +24,8 @@ lives=3
 num1=0
 for i in range(1,15):
     num1=int(random.randint(2,20))
-num2=random.randint(2,20)
-Ans=num1*num2
-ans=int(input("What is "+num1+" x "+num2+" ?"))
-
+    num2=random.randint(2,20)
+    Ans=num1*num2
+    ans=int(input("What is "+num1+" x "+num2+" ?"))
+    if Ans==ans:
+        then
