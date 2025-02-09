@@ -32,4 +32,5 @@ for i in range(1,15):
         break
     else:
         lives=lives-1
-        print
+        print("FAIL!!AGAIN!")
+
