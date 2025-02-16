@@ -5,4 +5,4 @@ list()
 import random
 for i in (100):
     sgnuiehguaewgh87enyergew=random.randint(1,1000)
-    list.appends[sgnuiehguaewgh87enyergew] 
+    list.appends[str(sgnuiehguaewgh87enyergew)] 
