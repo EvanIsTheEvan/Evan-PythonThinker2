@@ -1,4 +1,5 @@
 # print("Hello from lesson 5")
 
 import random
-random.randint(1,1000)
+for i in array():
+    random.randint(1,1000)
