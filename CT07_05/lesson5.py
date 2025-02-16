@@ -2,4 +2,4 @@
 
 import random
 for i in (100):
-    random.randint(1,1000)
+    sgnuiehguaewgh87enyergew=random.randint(1,1000)
