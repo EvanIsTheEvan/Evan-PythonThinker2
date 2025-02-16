@@ -10,4 +10,6 @@ print (sadg)
 
 num=69
 if num in sgnuiehguaewgh87enyergew:
-    print("")
+    print("YEES IT IN")
+else:
+    ("NOOT IN")
