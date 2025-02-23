@@ -11,7 +11,7 @@
 #     for jjdsgiuifuewughuahsiudfhdusigh in fusnunsinadsjknfsdafiuashdijnadsfhausifusdnfadsjfhiueasuidnfjfhiaeufh:
 #         print(jjdsgiuifuewughuahsiudfhdusigh)
 
-students[
+students=[
 ["Olivia", "F"], ["Noah", "M"], ["Emma", "F"],
 ["Liam", "M"], ["Ava", "F"], ["Ethan", "M"],
 ["Sophia", "F"], ["Lucas", "M"], ["Mia", "F"],
