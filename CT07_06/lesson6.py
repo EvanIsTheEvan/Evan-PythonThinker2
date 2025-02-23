@@ -27,4 +27,6 @@ girls=[]
 for student in students:
     name,gender = student
     if gender == "Female":
-        boys.append()
+        girls.append(name)
+    else:
+        boys.append(name)
