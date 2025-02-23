@@ -6,6 +6,7 @@ students.append(student3)
 students.append(student2)
 students.append(student1)
 
+student=0
 name,phonenumber,CCA = student
 for student in students:
     print("Name:"+ str(name))
