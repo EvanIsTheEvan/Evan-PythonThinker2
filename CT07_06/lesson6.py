@@ -22,16 +22,16 @@ students=[
 #     name,gender =student
 #     print("The gender of " + name + " is " + gender +".")
 
-boys=[]
-girls=[]
-for student in students:
-    name,gender = student
-    if gender == "Female":
-        girls.append(name)
-    else:
-        boys.append(name)
-for i in girls:
-    print (i)
-for a in boys:
-    print (a)
-print("There are "+ str(len(girls))+" girls" +" and "+str(len(boys))+" boys.")
+# boys=[]
+# girls=[]
+# for student in students:
+#     name,gender = student
+#     if gender == "Female":
+#         girls.append(name)
+#     else:
+#         boys.append(name)
+# for i in girls:
+#     print (i)
+# for a in boys:
+#     print (a)
+# print("There are "+ str(len(girls))+" girls" +" and "+str(len(boys))+" boys.")
