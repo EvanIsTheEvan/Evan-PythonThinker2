@@ -7,7 +7,7 @@ students.append(student2)
 students.append(student1)
 
 
-name,phonenumber,CCA = student1
+name,phonenumber,CCA = students
 for student in students:
     print("Name:"+ str(name))
     print("Phone Number:"+ str(phonenumber))
