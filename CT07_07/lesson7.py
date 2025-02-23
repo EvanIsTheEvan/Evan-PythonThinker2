@@ -17,3 +17,4 @@
 list1 = ["Apple", "Banana", "Cherry", "Durian"]
 list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
 fruits= list1+list2
+print(fruits)
