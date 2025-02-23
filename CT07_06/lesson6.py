@@ -9,4 +9,4 @@ contacts.append(contact3)
 
 for fusnunsinadsjknfsdafiuashdijnadsfhausifusdnfadsjfhiueasuidnfjfhiaeufh in contacts:
     for jjdsgiuifuewughuahsiudfhdusigh in fusnunsinadsjknfsdafiuashdijnadsfhausifusdnfadsjfhiueasuidnfjfhiaeufh:
-        print()
+        print(jjdsgiuifuewughuahsiudfhdusigh)
