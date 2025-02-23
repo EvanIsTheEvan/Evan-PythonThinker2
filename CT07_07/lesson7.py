@@ -1,2 +1,2 @@
 students=[]
-student1=[John,6789-4903,Hockey]
+student1=["John","67894903",Hockey]
