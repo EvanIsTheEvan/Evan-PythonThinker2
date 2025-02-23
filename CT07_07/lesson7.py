@@ -10,4 +10,4 @@ name,phonenumber,CCA = student
 for student in students:
     print("Name:"+ name)
     print("Phone Number:"+ str(phonenumber))
-    print("Name:"+ name)
+    print("CCA:"+ CCA)
