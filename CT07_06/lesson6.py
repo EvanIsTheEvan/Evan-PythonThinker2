@@ -20,4 +20,4 @@ students=[
 ]
 for student in students:
     name,gender =student
-    print("")
+    print(name+" is "+gender)
