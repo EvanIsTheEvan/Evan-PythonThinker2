@@ -18,9 +18,13 @@ students=[
 ["Aiden", "Male"], ["Isabella", "Female"], ["Jackson", "Male"],
 ["Amelia", "Female"], ["Logan", "Male"], ["Lily", "Female"]
 ]
-for student in students:
-    name,gender =student
-    print("The gender of " + name + " is " + gender +".")
+# for student in students:
+#     name,gender =student
+#     print("The gender of " + name + " is " + gender +".")
 
+boys=[]
+girls=[]
 for student in students:
-    
+    name,gender = student
+    if gender == "Female":
+        boys.append()
