@@ -12,12 +12,12 @@
 #         print(jjdsgiuifuewughuahsiudfhdusigh)
 
 students=[
-["Olivia", "F"], ["Noah", "M"], ["Emma", "F"],
-["Liam", "M"], ["Ava", "F"], ["Ethan", "M"],
-["Sophia", "F"], ["Lucas", "M"], ["Mia", "F"],
-["Aiden", "M"], ["Isabella", "F"], ["Jackson", "M"],
-["Amelia", "F"], ["Logan", "M"], ["Lily", "F"]
+["Olivia", "Female"], ["Noah", "Male"], ["Emma", "Female"],
+["Liam", "Male"], ["Ava", "Female"], ["Ethan", "Male"],
+["Sophia", "Female"], ["Lucas", "Male"], ["Mia", "Female"],
+["Aiden", "Male"], ["Isabella", "Female"], ["Jackson", "Male"],
+["Amelia", "Female"], ["Logan", "Male"], ["Lily", "Female"]
 ]
 for student in students:
     name,gender =student
-    print(name+" is "+gender)
+    print("Gender of " + name + " is " + gender +".")
