@@ -34,4 +34,4 @@ for i in girls:
     print (i)
 for a in boys:
     print (a)
-print("There are "+ str(len(girls)) +" and "+str(len(boys))+" boys.")
+print("There are "+ str(len(girls))+" girls" +" and "+str(len(boys))+" boys.")
