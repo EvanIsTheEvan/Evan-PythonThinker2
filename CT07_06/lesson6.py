@@ -32,5 +32,6 @@ for student in students:
         boys.append(name)
 for i in girls:
     print (i)
-for i in girls:
-    print (i)
+for a in boys:
+    print (a)
+    print
