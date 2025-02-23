@@ -8,9 +8,5 @@ contacts.append(contact2)
 contacts.append(contact3)
 
 for fusnunsinadsjknfsdafiuashdijnadsfhausifusdnfadsjfhiueasuidnfjfhiaeufh in contacts:
-    for jjdsgiuifuewughuahsiudfhdusigh in contact1:
-        print (jjdsgiuifuewughuahsiudfhdusigh)
-    for jjdsgiuifuewughuahsiudfhdusigh in contact2:
-        print (jjdsgiuifuewughuahsiudfhdusigh)
-    for jjdsgiuifuewughuahsiudfhdusigh in contact3:
-        print (jjdsgiuifuewughuahsiudfhdusigh)
+    for jjdsgiuifuewughuahsiudfhdusigh in fusnunsinadsjknfsdafiuashdijnadsfhausifusdnfadsjfhiueasuidnfjfhiaeufh:
+        print()
