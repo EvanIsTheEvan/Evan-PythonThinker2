@@ -21,3 +21,4 @@ students=[
 for student in students:
     name,gender =student
     print("The gender of " + name + " is " + gender +".")
+
