@@ -14,7 +14,10 @@
 #     print("CCA:"+ str(CCA))
 
 
-list1 = ["Apple", "Banana", "Cherry", "Durian"]
-list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
-fruits= list1+list2
-print(fruits)
+# list1 = ["Apple", "Banana", "Cherry", "Durian"]
+# list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
+# fruits= list1+list2
+# print(fruits)
+
+list1 = [1, 2, 3, 4]
+list2 = [5, 6, 7, 8]
