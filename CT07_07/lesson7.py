@@ -5,4 +5,4 @@ student3=["Timothy","36728193","Soccer"]
 students.append(student3)
 students.append(student2)
 students.append(student1)
-name,
+name,phonenumber,CCA = student
