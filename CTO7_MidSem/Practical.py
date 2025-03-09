@@ -20,4 +20,4 @@ while not foodrequest=="end":
     fooood.append(foodrequest)
 print("You have ordered the following:")
 for i in fooood:
-    print(i)
+    print(str(num)+". "+i)
