@@ -15,6 +15,8 @@ fooood=[]
 foodrequest=0
 while not foodrequest=="end":
     foodrequest=input("What would you like to order?")
+    if foodrequest=="end":
+        break
     fooood.append(foodrequest)
 print("You have ordered the following:")
 for i in fooood:
