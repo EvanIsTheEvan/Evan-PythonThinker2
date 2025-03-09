@@ -23,3 +23,14 @@ print("He fought "+str(battles-1)+" battles, and died.")
 # for i in food:
 #     num=num+1
 #     print(str(num)+". "+i)
+correct = False
+hiddenpwd = "computhink"
+
+# Password validation
+while not correct:
+	userpwd = input("What is the password? ")
+
+if userpwd == hiddenpwd:
+	correct = True
+
+print("Access granted")
