@@ -7,4 +7,4 @@ while jhvbeyufgeifhmeirhgvy487fqdsiovvyu54hrd8923hmf74yr89ewbfy94hymr8>0:
     if jhvbeyufgeifhmeirhgvy487fqdsiovvyu54hrd8923hmf74yr89ewbfy94hymr8<0 or jhvbeyufgeifhmeirhgvy487fqdsiovvyu54hrd8923hmf74yr89ewbfy94hymr8==0:
         break
     print("After fighting monsters, his Health is now: "+str(jhvbeyufgeifhmeirhgvy487fqdsiovvyu54hrd8923hmf74yr89ewbfy94hymr8) )
-print("After fighting monsters, his Health is now: 3He fought XXX battles, and died.")
+print("After fighting monsters, his Health is now: 3. He fought XXX battles, and died.")
