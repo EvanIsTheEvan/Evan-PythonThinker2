@@ -23,3 +23,8 @@ print("He fought "+str(battles-1)+" battles, and died.")
 # for i in food:
 #     num=num+1
 #     print(str(num)+". "+i)
+
+word = "peanut"
+i = 0
+while i < 10:
+	print(word[i])
