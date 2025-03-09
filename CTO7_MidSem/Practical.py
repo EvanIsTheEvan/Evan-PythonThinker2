@@ -1,1 +1,1 @@
-print("Hero startsHero starts on his adventure with Health: 100")
+print("Hero starts on his adventure with Health: 100")
