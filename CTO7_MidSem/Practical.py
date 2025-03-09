@@ -13,6 +13,7 @@
 
 fooood=[]
 foodrequest=0
+num=0
 while not foodrequest=="end":
     foodrequest=input("What would you like to order?")
     if foodrequest=="end":
