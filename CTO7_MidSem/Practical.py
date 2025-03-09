@@ -12,5 +12,5 @@
 # print("He fought "+str(battles-1)+" battles, and died.")
 
 fooood=[]
-
-foodrequest=input("What would you like to order?")
+while not foodrequest=="end":
+    foodrequest=input("What would you like to order?")
