@@ -11,4 +11,4 @@
 #     print("After fighting monsters, his Health is now: "+str(health) )
 # print("He fought "+str(battles-1)+" battles, and died.")
 
-list=[]
+fooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooood=[]
