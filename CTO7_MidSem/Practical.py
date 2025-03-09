@@ -12,3 +12,4 @@
 # print("He fought "+str(battles-1)+" battles, and died.")
 
 fooood=[]
+food
