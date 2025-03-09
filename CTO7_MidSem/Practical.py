@@ -9,4 +9,4 @@ while health>0:
     if health<0 or health==0:
         break
     print("After fighting monsters, his Health is now: "+str(health) )
-print("After fighting monsters, his Health is now:"+str(health)+". He fought "+str(battles)+", and died.")
+print("He fought "+str(battles)+", and died.")
