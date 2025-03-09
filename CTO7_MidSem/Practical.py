@@ -19,7 +19,7 @@ while not foodrequest=="end":
     if foodrequest=="end":
         break
     fooood.append(foodrequest)
-    num=num+1
 print("You have ordered the following:")
 for i in fooood:
+    num=num+1
     print(str(num)+". "+i)
