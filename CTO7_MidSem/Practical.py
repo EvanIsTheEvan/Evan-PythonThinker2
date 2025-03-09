@@ -13,6 +13,7 @@
 
 fooood=[]
 foodrequest=input("What would you like to order?")
+fooood
 while not foodrequest=="end":
     foodrequest=input("What would you like to order?")
     fooood.append(foodrequest)
