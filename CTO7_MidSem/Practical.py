@@ -23,15 +23,3 @@ print("He fought "+str(battles-1)+" battles, and died.")
 # for i in food:
 #     num=num+1
 #     print(str(num)+". "+i)
-max = 0
-min = 999
-scores = [94, 89, 74, 61, 59, 79, 83, 91, 64]
-
-for i in scores:
-    if i > max:
-        max = i
-    if i < min:
-        min = i
-
-print("Max score is: " + str(max))
-print("Min score is: " + str(min))
