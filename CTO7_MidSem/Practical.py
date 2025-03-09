@@ -14,7 +14,7 @@
 fooood=[]
 while not foodrequest=="end":
     foodrequest=input("What would you like to order?")
-    fooood.append(foodrequest)
+    fooood.append(input("What would you like to order?")
 print("You have ordered the following:")
 for i in fooood:
     print(i)
