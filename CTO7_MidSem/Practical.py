@@ -11,15 +11,15 @@
 #     print("After fighting monsters, his Health is now: "+str(health) )
 # print("He fought "+str(battles-1)+" battles, and died.")
 
-fooood=[]
+food=[]
 foodrequest=0
 num=0
 while not foodrequest=="end":
     foodrequest=input("What would you like to order?")
     if foodrequest=="end":
         break
-    fooood.append(foodrequest)
+    food.append(foodrequest)
 print("You have ordered the following:")
-for i in fooood:
+for i in food:
     num=num+1
     print(str(num)+". "+i)
