@@ -11,10 +11,14 @@
 #     print("After fighting monsters, his Health is now: "+str(health) )
 # print("He fought "+str(battles-1)+" battles, and died.")
 
-
 fooood=[]
 while not foodrequest=="end":
-    fooood.append(input("What would you like to order?"))
+    
+# savings=0
+# while savings<100:
+#     savings+=float(input("How much did you save today?"))
+# print("Finally, you are $100 less poor!")
+    fooood.append(foodrequest)
 print("You have ordered the following:")
 for i in fooood:
     print(i)
