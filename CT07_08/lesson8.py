@@ -45,4 +45,5 @@ for i in list69:
         list420.append(i)
 list420=sorted(list420)
 list240=len(list420)//2
+print (list240)
 print (list420)
