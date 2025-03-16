@@ -55,4 +55,5 @@ if len(string)>7:
     for char in string:
         if char.isupper:
             hasupper=True 
-        if char.isupper
+        if char.islower:
+            haslower=True
