@@ -44,6 +44,5 @@ for i in list69:
     if not i in list420:
         list420.append(i)
 list420=sorted(list420)
-list240=slice(len(list420)//2)
-print (list240)
+list420=slice(len(list420)//2)
 print (list420)
