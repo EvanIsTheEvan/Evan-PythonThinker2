@@ -49,7 +49,7 @@
 # print (list420[list220])
 # print (list420[list221])
 
-string=""
+string="gjiusaniufnsaifnsdjafnaiusdnfiuadsnfijadsnijdsanuicshn"
 hasupper=False
 haslower=False
 hasdigit=False
@@ -69,3 +69,5 @@ if len(string)>7:
             if hasdigit==True:
                 if hasalnum==True:
                     print("DA PASSWORD IS VALID!")
+                else:
+                    print("INVALID!")
