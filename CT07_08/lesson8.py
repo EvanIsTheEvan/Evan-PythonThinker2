@@ -53,4 +53,4 @@ string=""
 if len(string)>7:
     for char in string:
         if char.isupper:
-            hasupper 
+            hasupper=T 
