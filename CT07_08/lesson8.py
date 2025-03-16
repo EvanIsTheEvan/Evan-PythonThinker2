@@ -44,3 +44,4 @@ for i in list69:
     if i in list420:
         break
     list420.append
+print (list420)
