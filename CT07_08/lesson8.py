@@ -44,5 +44,5 @@ for i in list69:
     if not i in list420:
         list420.append(i)
 list420=sorted(list420)
-
+list240=len
 print (list420)
