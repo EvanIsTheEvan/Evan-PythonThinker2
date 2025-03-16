@@ -50,4 +50,7 @@
 # print (list420[list221])
 
 string=""
-strlen=len(string)
+if len(string)>7:
+    for char in string:
+        if char.isupper:
+            hasupper 
