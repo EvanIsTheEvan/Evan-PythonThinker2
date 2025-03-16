@@ -45,5 +45,5 @@ for i in list69:
         list420.append(i)
 list420=sorted(list420)
 list240=slice(len(list420//2))
-print (str(list240))
+print (list240)
 print (list420)
