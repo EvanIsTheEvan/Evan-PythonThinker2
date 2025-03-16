@@ -51,6 +51,7 @@
 
 string=""
 hasupper=False
+haslower=False
 if len(string)>7:
     for char in string:
         if char.isupper:
