@@ -43,5 +43,5 @@ list420=[]
 for i in list69:
     if i in list420:
         break
-    list420.append
+    list420.append(i)
 print (list420)
