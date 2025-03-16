@@ -41,7 +41,8 @@ list3 = [9, 8, 7]
 list69= list1+list2+list3
 list420=[]
 for i in list69:
-    if i in list420:
-        break
-    list420.append(i)
+    if not i in list420:
+        list420.append(i)
+    else:
+        
 print (list420)
