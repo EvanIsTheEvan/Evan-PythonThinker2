@@ -43,5 +43,5 @@ list420=[]
 for i in list69:
     if not i in list420:
         list420.append(i)
-        
+
 print (list420)
