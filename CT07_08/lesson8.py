@@ -50,3 +50,4 @@
 # print (list420[list221])
 
 string=""
+strlen=len(string)
