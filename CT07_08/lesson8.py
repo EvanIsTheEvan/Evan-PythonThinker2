@@ -35,16 +35,17 @@
 #         even.append(i)
 # print(even)
 
-list1 = [3, 2, 1]
-list2 = [6, 5, 5]
-list3 = [9, 8, 7]
-list69= list1+list2+list3
-list420=[]
-for i in list69:
-    if not i in list420:
-        list420.append(i)
-list420=sorted(list420)
-list220=slice(len(list420)//2)
-list221=slice(len(list420)//2,len(list420))
-print (list420[list220])
-print (list420[list221])
+# list1 = [3, 2, 1]
+# list2 = [6, 5, 5]
+# list3 = [9, 8, 7]
+# list69= list1+list2+list3
+# list420=[]
+# for i in list69:
+#     if not i in list420:
+#         list420.append(i)
+# list420=sorted(list420)
+# list220=slice(len(list420)//2)
+# list221=slice(len(list420)//2,len(list420))
+# print (list420[list220])
+# print (list420[list221])
+
