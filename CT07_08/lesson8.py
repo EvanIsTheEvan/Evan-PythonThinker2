@@ -40,4 +40,4 @@ list2 = [6, 5, 5]
 list3 = [9, 8, 7]
 list69= list1+list2+list3
 for i in list69:
-    list420
+    list420.append
