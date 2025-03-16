@@ -50,8 +50,9 @@
 # print (list420[list221])
 
 string=""
-hasupper=
+hasupper=False
 if len(string)>7:
     for char in string:
         if char.isupper:
             hasupper=True 
+        
