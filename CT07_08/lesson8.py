@@ -52,9 +52,20 @@
 string=""
 hasupper=False
 haslower=False
+hasdigit=False
+hasalnum=False
 if len(string)>7:
     for char in string:
         if char.isupper:
             hasupper=True 
         if char.islower:
             haslower=True
+        if char.isdigit:
+            hasdigit=True
+    if string.isalnum:
+            hasalnum=True
+    if hasupper==True:
+        if haslower==True:
+            if hasdigit==True:
+                if hasalnum==True:
+                    print()
