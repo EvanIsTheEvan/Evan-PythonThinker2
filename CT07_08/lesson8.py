@@ -68,4 +68,4 @@ if len(string)>7:
         if haslower==True:
             if hasdigit==True:
                 if hasalnum==True:
-                    print()
+                    print("DA PASSWORD IS VALID!")
