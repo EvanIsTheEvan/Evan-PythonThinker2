@@ -48,7 +48,7 @@ BANNANABOI3456.goto(0,-250)
 BANNANABOI3456.write(align="center",font=('Arial,20'))
 
 SIGMAMAN7293=t.Turtle()
-pen.penup()
+SIGMAMAN7293()
 SIGMAMAN7293.seth(90)
 SIGMAMAN7293.shape("turtle")
 SIGMAMAN7293.color("#9A3836")
