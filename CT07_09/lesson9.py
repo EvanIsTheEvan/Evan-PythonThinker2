@@ -32,7 +32,7 @@ pen.sety(250)
 for i in range(-696,696,25):
     pen.setx(i)
     pen.stamp()
-    
+
 pen.goto(-350,-250)
 pen.color("yellow")
 pen.pendown()
@@ -46,7 +46,7 @@ BANNANABO.seth(90)
 BANNANABO.shape("turtle")
 BANNANABO.color("#9A3836")
 BANNANABO.goto(0,-250)
-BANNANABO.write(align="center",font=('Arial,20'))
+BANNANABO.write("BANNANABO",align="center",font=('Arial,20'))
 
 SIGMAMAN7293=t.Turtle()
 SIGMAMAN7293.penup()
