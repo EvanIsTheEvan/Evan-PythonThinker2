@@ -32,7 +32,6 @@ pen.sety(250)
 for i in range(-696,696,25):
     pen.setx(i)
     pen.stamp()
-
 pen.goto(-300,-250)
 pen.color("yellow")
 pen.pendown()
