@@ -56,7 +56,7 @@ SIGMAMAN7293.goto(200,-250)
 SIGMAMAN7293.write(align="center",font=('Arial,20'))
 
 RIZZMAX2382=t.Turtle()
-pen.penup()
+RIZZMAX2382.penup()
 RIZZMAX2382.seth(90)
 RIZZMAX2382.shape("turtle")
 RIZZMAX2382.color("#9A3836")
