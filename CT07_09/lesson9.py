@@ -39,7 +39,7 @@ pen.seth(0)
 pen.forward(696)
 pen.hideturtle()
 
-t.Turtle()
+BANNANABOI3456=t.Turtle()
 pen.penup()
 
 
