@@ -40,6 +40,7 @@ pen.forward(696)
 pen.hideturtle()
 
 t.Turtle()
+pen.penup()
 
 
 window.mainloop()
