@@ -41,6 +41,6 @@ pen.hideturtle()
 
 BANNANABOI3456=t.Turtle()
 pen.penup()
-
+BANNANABOI3456
 
 window.mainloop()
