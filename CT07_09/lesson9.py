@@ -43,6 +43,6 @@ BANNANABOI3456=t.Turtle()
 pen.penup()
 BANNANABOI3456.seth(90)
 BANNANABOI3456.shape("turtle")
-B
+BANNANABOI3456.color
 
 window.mainloop()
