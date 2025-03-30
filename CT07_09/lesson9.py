@@ -39,4 +39,6 @@ pen.seth(0)
 pen.forward(696)
 pen.hideturtle()
 
+
+
 window.mainloop()
