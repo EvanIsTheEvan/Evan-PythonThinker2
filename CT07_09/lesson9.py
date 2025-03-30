@@ -45,6 +45,6 @@ BANNANABOI3456.seth(90)
 BANNANABOI3456.shape("turtle")
 BANNANABOI3456.color("#9A3836")
 BANNANABOI3456.goto(0,-250)
-BANNANABOI3456.write(align="center")
+BANNANABOI3456.write(align="center",font=('Arial'))
 
 window.mainloop()
