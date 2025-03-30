@@ -55,7 +55,7 @@ SIGMAMAN7293.color("#9A3836")
 SIGMAMAN7293.goto(0,-250)
 SIGMAMAN7293.write(align="center",font=('Arial,20'))
 
-rizzmax243=t.Turtle()
+RIZZMAX2382=t.Turtle()
 pen.penup()
 BANNANABOI3456.seth(90)
 BANNANABOI3456.shape("turtle")
