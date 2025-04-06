@@ -63,7 +63,7 @@ RIZZMAX2382.shape("turtle")
 RIZZMAX2382.color("#9A3836")
 RIZZMAX2382.goto(-200,-250)
 RIZZMAX2382.write("RIZZMAX2382",align="center",font=('Arial,20'))
-
+RIZZMAX2382
 
 
 guess=input("WHO DO YOU TINK WILL WEEN?")
