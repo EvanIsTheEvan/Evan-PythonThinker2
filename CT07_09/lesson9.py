@@ -49,7 +49,7 @@ BANNANABO.color("#9A3836")
 BANNANABO.goto(0,-250)
 BANNANABO.write("BANNANABO",align="center",font=('Arial,20'))
 BANNANABO.seth(random.randint(75,115))
- .forward(random.randint(1,20))
+BANNANABO.forward(random.randint(1,20))
 
 SIGMAMAN7293=t.Turtle()
 SIGMAMAN7293.penup()
@@ -70,7 +70,6 @@ RIZZMAX2382.goto(-200,-250)
 RIZZMAX2382.write("RIZZMAX2382",align="center",font=('Arial,20'))
 RIZZMAX2382.seth(random.randint(75,115))
 RIZZMAX2382.forward(random.randint(1,20))
-
 
 guess=input("WHO DO YOU TINK WILL WEEN?")
 
