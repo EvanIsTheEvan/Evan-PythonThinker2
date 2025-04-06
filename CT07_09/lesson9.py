@@ -66,4 +66,6 @@ RIZZMAX2382.write("RIZZMAX2382",align="center",font=('Arial,20'))
 
 guess=input("WHO DO YOU TINK WILL WEEN?")
 
+
+
 window.mainloop()
