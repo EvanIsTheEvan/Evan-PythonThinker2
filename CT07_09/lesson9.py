@@ -65,7 +65,7 @@ RIZZMAX2382.color("#9A3836")
 RIZZMAX2382.goto(-200,-250)
 RIZZMAX2382.write("RIZZMAX2382",align="center",font=('Arial,20'))
 RIZZMAX2382.seth(random.randint(75,115))
-RIZZMAX2382.forward()
+RIZZMAX2382.forward(random.randint(1,20))
 
 guess=input("WHO DO YOU TINK WILL WEEN?")
 
